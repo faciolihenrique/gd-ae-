@@ -54,7 +54,9 @@ def dealToken(request, code, year, semester, offerings, token):
             for question in SubjectQuery.questionnaire.questions.all():
                 # If not all the questions were answered
                 if str(question.id) not in request.POST:
-                    raise ValueError('Not all questions were in POST')
+                    # We check if its a mandatory question. If so, Raise error
+                    if question.mandatory:
+                        raise ValueError('Not all questions were in POST')
                 else:
                     value = request.POST[str(question.id)]
 

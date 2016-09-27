@@ -41,6 +41,9 @@ class Question(models.Model):
                                       )
     min_v = models.IntegerField(default=0,blank=True,help_text="Menor valor possivel")
     max_v = models.IntegerField(default=0,blank=True,help_text="Maior valor possivel")
+    mandatory = models.BooleanField(default=True,
+                                    help_text="Uma questão obrigatória ou não"
+                                    )
 
     def __str__(self):
         return str(self.pk) + ' - ' + self.text[:50]
