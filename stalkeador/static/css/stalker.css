@@ -81,18 +81,8 @@ html,body{
   background-color: #f4ffff;
 }
 
-#holder {
-  min-height: 100%;
-  position:relative;
-}
-ul.footer{
-  margin-top:10px;
-  text-align:center;
-}
-
-ul.footer li{
-  color:#333;
-  display:inline-block;
+.thumbnail .thumbnail-yellow {
+  background: #ffffe6;
 }
 
 
