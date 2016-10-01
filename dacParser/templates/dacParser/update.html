@@ -12,12 +12,12 @@
         </div>
         {% for institute in institutes %}
             <div class="col-md-6">
-                <div class="thumbnail">
-                    <h4>
-                        <a href="disciplines/{{ institute.code }}">
+                    <a href="disciplines/{{ institute.code }}">
+                        <div class="thumbnail">
+                            <h4>
                             {{ institute.code }}
-                        </a>
-                    </h4>
+                        </h4>
+                    </a>
                 </div>
             </div>
         {% endfor %}
