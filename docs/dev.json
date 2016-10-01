@@ -267,9 +267,7 @@
     "name": "Tatiele Zenilda Pessoa",
     "course": "200",
     "course_type": " ",
-    "stu_offerings": [
-      1
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -514,9 +512,7 @@
     "name": "Christian Martins Carneiro",
     "course": "200",
     "course_type": " ",
-    "stu_offerings": [
-      1
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -865,9 +861,7 @@
     "name": "Jeniffer Tays de Lima dos Santos",
     "course": "200",
     "course_type": " ",
-    "stu_offerings": [
-      1
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -1524,7 +1518,6 @@
     "course_type": " ",
     "stu_offerings": [
       3,
-      108,
       121,
       129
     ]
@@ -1919,8 +1912,6 @@
     "course": "34",
     "course_type": "AA",
     "stu_offerings": [
-      14,
-      132,
       151
     ]
   }
@@ -2038,7 +2029,6 @@
     "course_type": " ",
     "stu_offerings": [
       21,
-      108,
       116,
       121,
       128
@@ -2253,12 +2243,7 @@
     "course": "42",
     "course_type": " ",
     "stu_offerings": [
-      26,
-      46,
-      135,
-      142,
-      151,
-      159
+      26
     ]
   }
 },
@@ -2583,7 +2568,6 @@
     "course": "34",
     "course_type": "AX",
     "stu_offerings": [
-      45,
       113,
       118,
       131
@@ -2630,8 +2614,7 @@
       240,
       46,
       115,
-      132,
-      156
+      132
     ]
   }
 },
@@ -2646,7 +2629,6 @@
     "stu_offerings": [
       208,
       46,
-      121,
       139
     ]
   }
@@ -2858,7 +2840,6 @@
     "course_type": " ",
     "stu_offerings": [
       48,
-      121,
       139
     ]
   }
@@ -3430,7 +3411,6 @@
     "course_type": "AX",
     "stu_offerings": [
       78,
-      108,
       113,
       130
     ]
@@ -3496,7 +3476,6 @@
     "stu_offerings": [
       79,
       108,
-      127,
       131,
       141
     ]
@@ -4676,9 +4655,7 @@
     "name": "Gabriel Sobreira Velotta",
     "course": "10",
     "course_type": " ",
-    "stu_offerings": [
-      82
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -4858,9 +4835,7 @@
     "name": "Paulo Roberto Machado Dos Santos",
     "course": "11",
     "course_type": " ",
-    "stu_offerings": [
-      82
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -5465,9 +5440,7 @@
     "name": "Artur Pereira Francisquetti",
     "course": "2",
     "course_type": " ",
-    "stu_offerings": [
-      84
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -5764,9 +5737,7 @@
     "name": "Renato Cesar Blanes",
     "course": "51",
     "course_type": " ",
-    "stu_offerings": [
-      84
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -6754,9 +6725,7 @@
     "name": "Bruno Stevanato Trevisan",
     "course": "51",
     "course_type": " ",
-    "stu_offerings": [
-      87
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -10761,9 +10730,7 @@
     "name": "Giovana Bolgar",
     "course": "43",
     "course_type": " ",
-    "stu_offerings": [
-      96
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -10917,9 +10884,7 @@
     "name": "Sarah Regina Bueno",
     "course": "43",
     "course_type": " ",
-    "stu_offerings": [
-      96
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -12260,9 +12225,7 @@
     "name": "Felipe Escorcio De Sousa",
     "course": "34",
     "course_type": "AX",
-    "stu_offerings": [
-      99
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -13014,9 +12977,7 @@
     "name": "Oscar Alejandro Flores Carrion",
     "course": "40",
     "course_type": " ",
-    "stu_offerings": [
-      102
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -13582,8 +13543,7 @@
     "course": "42",
     "course_type": " ",
     "stu_offerings": [
-      104,
-      130
+      104
     ]
   }
 },
@@ -13970,8 +13930,7 @@
     "stu_offerings": [
       166,
       191,
-      105,
-      109
+      105
     ]
   }
 },
@@ -14011,8 +13970,7 @@
     "course_type": " ",
     "stu_offerings": [
       227,
-      231,
-      105
+      231
     ]
   }
 },
@@ -15472,9 +15430,7 @@
     "name": "Lucas Seiji Mizuta",
     "course": "42",
     "course_type": " ",
-    "stu_offerings": [
-      108
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -15589,7 +15545,6 @@
     "course": "34",
     "course_type": "AX",
     "stu_offerings": [
-      108,
       121,
       149
     ]
@@ -15963,7 +15918,6 @@
     "course": "42",
     "course_type": " ",
     "stu_offerings": [
-      108,
       115,
       124,
       129
@@ -15979,10 +15933,8 @@
     "course": "42",
     "course_type": " ",
     "stu_offerings": [
-      108,
       115,
-      121,
-      128
+      121
     ]
   }
 },
@@ -16171,7 +16123,6 @@
     "stu_offerings": [
       191,
       225,
-      108,
       113
     ]
   }
@@ -16187,7 +16138,6 @@
     "stu_offerings": [
       191,
       225,
-      108,
       113
     ]
   }
@@ -16218,7 +16168,6 @@
     "course_type": "AX",
     "stu_offerings": [
       225,
-      108,
       111,
       130
     ]
@@ -16337,8 +16286,7 @@
     "course": "42",
     "course_type": " ",
     "stu_offerings": [
-      109,
-      130
+      109
     ]
   }
 },
@@ -16641,8 +16589,7 @@
       116,
       135,
       136,
-      141,
-      152
+      141
     ]
   }
 },
@@ -16911,7 +16858,6 @@
     "course_type": "AB",
     "stu_offerings": [
       225,
-      109,
       112
     ]
   }
@@ -16997,11 +16943,7 @@
     "name": "Joao Victor Brazileu Spuri",
     "course": "42",
     "course_type": " ",
-    "stu_offerings": [
-      109,
-      130,
-      139
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -17248,8 +17190,7 @@
     "stu_offerings": [
       109,
       114,
-      130,
-      139
+      130
     ]
   }
 },
@@ -19582,7 +19523,6 @@
     "course": "99",
     "course_type": "",
     "stu_offerings": [
-      114,
       139,
       151,
       155,
@@ -19866,8 +19806,7 @@
       191,
       117,
       126,
-      145,
-      150
+      145
     ]
   }
 },
@@ -20005,7 +19944,6 @@
     "course_type": "AA",
     "stu_offerings": [
       117,
-      125,
       130,
       139
     ]
@@ -20219,8 +20157,7 @@
       174,
       207,
       242,
-      118,
-      127
+      118
     ]
   }
 },
@@ -20233,8 +20170,7 @@
     "course": "34",
     "course_type": "AA",
     "stu_offerings": [
-      191,
-      118
+      191
     ]
   }
 },
@@ -20637,8 +20573,7 @@
       172,
       174,
       207,
-      261,
-      120
+      261
     ]
   }
 },
@@ -20820,9 +20755,7 @@
     "name": "Daniel Washington Ignacio",
     "course": "51",
     "course_type": " ",
-    "stu_offerings": [
-      121
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -20931,8 +20864,7 @@
     "course_type": "AA",
     "stu_offerings": [
       122,
-      132,
-      153
+      132
     ]
   }
 },
@@ -20979,8 +20911,7 @@
     "stu_offerings": [
       124,
       130,
-      139,
-      159
+      139
     ]
   }
 },
@@ -21174,8 +21105,7 @@
       167,
       188,
       207,
-      260,
-      127
+      260
     ]
   }
 },
@@ -21190,8 +21120,7 @@
     "stu_offerings": [
       167,
       170,
-      239,
-      127
+      239
     ]
   }
 },
@@ -21318,7 +21247,6 @@
       128,
       136,
       140,
-      146,
       153
     ]
   }
@@ -21633,7 +21561,6 @@
     "course_type": "AA",
     "stu_offerings": [
       239,
-      129,
       146,
       153,
       159
@@ -21665,8 +21592,7 @@
     "course_type": " ",
     "stu_offerings": [
       130,
-      139,
-      154
+      139
     ]
   }
 },
@@ -22262,7 +22188,6 @@
     "course": "42",
     "course_type": " ",
     "stu_offerings": [
-      136,
       139
     ]
   }
@@ -22534,9 +22459,7 @@
     "name": "Allan Sapucaia Barboza",
     "course": "34",
     "course_type": "AA",
-    "stu_offerings": [
-      156
-    ]
+    "stu_offerings": []
   }
 },
 {
@@ -38745,7 +38668,7 @@
     "year": "2016",
     "teacher": 1,
     "vacancies": 115,
-    "registered": 110,
+    "registered": 107,
     "students": [
       34,
       23,
@@ -38771,7 +38694,6 @@
       6,
       54,
       39,
-      40,
       41,
       42,
       43,
@@ -38802,7 +38724,6 @@
       64,
       65,
       66,
-      67,
       68,
       69,
       70,
@@ -38845,7 +38766,6 @@
       110,
       98,
       20,
-      21,
       100,
       101,
       102,
@@ -38858,7 +38778,11 @@
       108,
       109
     ],
-    "giveups": [],
+    "giveups": [
+      40,
+      67,
+      21
+    ],
     "answers": []
   }
 },
@@ -38935,7 +38859,7 @@
     "offering_id": "A",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 109,
     "vacancies": 30,
     "registered": 4,
     "students": [
@@ -38956,7 +38880,7 @@
     "offering_id": "B",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 29,
     "vacancies": 30,
     "registered": 1,
     "students": [
@@ -38974,7 +38898,7 @@
     "offering_id": "C",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 1,
     "vacancies": 30,
     "registered": 1,
     "students": [
@@ -38992,7 +38916,7 @@
     "offering_id": "D",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 11,
     "vacancies": 30,
     "registered": 2,
     "students": [
@@ -39011,7 +38935,7 @@
     "offering_id": "E",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 10,
     "vacancies": 30,
     "registered": 2,
     "students": [
@@ -39030,7 +38954,7 @@
     "offering_id": "F",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 28,
     "vacancies": 30,
     "registered": 1,
     "students": [
@@ -39048,7 +38972,7 @@
     "offering_id": "G",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 6,
     "vacancies": 30,
     "registered": 3,
     "students": [
@@ -39068,7 +38992,7 @@
     "offering_id": "H",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 37,
     "vacancies": 30,
     "registered": 1,
     "students": [
@@ -39086,7 +39010,7 @@
     "offering_id": "I",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 22,
     "vacancies": 30,
     "registered": 1,
     "students": [
@@ -39104,14 +39028,15 @@
     "offering_id": "J",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 18,
     "vacancies": 30,
-    "registered": 2,
+    "registered": 1,
     "students": [
-      141,
+      141
+    ],
+    "giveups": [
       142
     ],
-    "giveups": [],
     "answers": []
   }
 },
@@ -39123,7 +39048,7 @@
     "offering_id": "K",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 110,
     "vacancies": 30,
     "registered": 2,
     "students": [
@@ -39142,7 +39067,7 @@
     "offering_id": "L",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 15,
     "vacancies": 30,
     "registered": 1,
     "students": [
@@ -39160,7 +39085,7 @@
     "offering_id": "M",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 14,
     "vacancies": 30,
     "registered": 1,
     "students": [
@@ -39178,7 +39103,7 @@
     "offering_id": "N",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 30,
     "vacancies": 30,
     "registered": 1,
     "students": [
@@ -39196,7 +39121,7 @@
     "offering_id": "O",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 34,
     "vacancies": 30,
     "registered": 2,
     "students": [
@@ -39215,7 +39140,7 @@
     "offering_id": "P",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 30,
     "registered": 0,
     "students": [],
@@ -39231,7 +39156,7 @@
     "offering_id": "A",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 109,
     "vacancies": 10,
     "registered": 1,
     "students": [
@@ -39249,7 +39174,7 @@
     "offering_id": "B",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 11,
     "vacancies": 10,
     "registered": 1,
     "students": [
@@ -39267,7 +39192,7 @@
     "offering_id": "C",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 14,
     "vacancies": 10,
     "registered": 1,
     "students": [
@@ -39285,7 +39210,7 @@
     "offering_id": "D",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 5,
     "vacancies": 10,
     "registered": 1,
     "students": [
@@ -39303,7 +39228,7 @@
     "offering_id": "E",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 27,
     "vacancies": 10,
     "registered": 1,
     "students": [
@@ -39321,7 +39246,7 @@
     "offering_id": "F",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 111,
     "vacancies": 10,
     "registered": 11,
     "students": [
@@ -39349,7 +39274,7 @@
     "offering_id": "G",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 4,
     "vacancies": 10,
     "registered": 1,
     "students": [
@@ -39367,7 +39292,7 @@
     "offering_id": "H",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39383,7 +39308,7 @@
     "offering_id": "I",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39399,7 +39324,7 @@
     "offering_id": "J",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39415,7 +39340,7 @@
     "offering_id": "K",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39431,7 +39356,7 @@
     "offering_id": "L",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39447,7 +39372,7 @@
     "offering_id": "A",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 112,
     "vacancies": 10,
     "registered": 1,
     "students": [
@@ -39465,7 +39390,7 @@
     "offering_id": "B",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39481,7 +39406,7 @@
     "offering_id": "C",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39497,7 +39422,7 @@
     "offering_id": "D",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39513,7 +39438,7 @@
     "offering_id": "E",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39529,7 +39454,7 @@
     "offering_id": "F",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39545,7 +39470,7 @@
     "offering_id": "G",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39561,7 +39486,7 @@
     "offering_id": "H",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39577,7 +39502,7 @@
     "offering_id": "I",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39593,7 +39518,7 @@
     "offering_id": "J",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39609,7 +39534,7 @@
     "offering_id": "K",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39625,7 +39550,7 @@
     "offering_id": "L",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 10,
     "registered": 0,
     "students": [],
@@ -39643,7 +39568,7 @@
     "year": "2016",
     "teacher": 3,
     "vacancies": 55,
-    "registered": 25,
+    "registered": 24,
     "students": [
       186,
       181,
@@ -39662,7 +39587,6 @@
       123,
       145,
       168,
-      185,
       170,
       178,
       172,
@@ -39671,7 +39595,9 @@
       119,
       127
     ],
-    "giveups": [],
+    "giveups": [
+      185
+    ],
     "answers": []
   }
 },
@@ -39685,7 +39611,7 @@
     "year": "2016",
     "teacher": 3,
     "vacancies": 10,
-    "registered": 11,
+    "registered": 10,
     "students": [
       194,
       187,
@@ -39696,10 +39622,11 @@
       189,
       195,
       190,
-      164,
       191
     ],
-    "giveups": [],
+    "giveups": [
+      164
+    ],
     "answers": []
   }
 },
@@ -39757,7 +39684,7 @@
     "offering_id": "A",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 109,
     "vacancies": 25,
     "registered": 2,
     "students": [
@@ -39776,7 +39703,7 @@
     "offering_id": "B",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 7,
     "vacancies": 25,
     "registered": 1,
     "students": [
@@ -39794,7 +39721,7 @@
     "offering_id": "C",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 25,
     "vacancies": 25,
     "registered": 1,
     "students": [
@@ -39812,7 +39739,7 @@
     "offering_id": "D",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 29,
     "vacancies": 25,
     "registered": 1,
     "students": [
@@ -39830,7 +39757,7 @@
     "offering_id": "E",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 28,
     "vacancies": 25,
     "registered": 4,
     "students": [
@@ -39851,7 +39778,7 @@
     "offering_id": "F",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 13,
     "vacancies": 25,
     "registered": 1,
     "students": [
@@ -39869,7 +39796,7 @@
     "offering_id": "G",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 113,
     "vacancies": 25,
     "registered": 1,
     "students": [
@@ -39887,7 +39814,7 @@
     "offering_id": "H",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 18,
     "vacancies": 25,
     "registered": 2,
     "students": [
@@ -39906,7 +39833,7 @@
     "offering_id": "I",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 11,
     "vacancies": 25,
     "registered": 1,
     "students": [
@@ -39924,7 +39851,7 @@
     "offering_id": "J",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 27,
     "vacancies": 25,
     "registered": 1,
     "students": [
@@ -39942,7 +39869,7 @@
     "offering_id": "K",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 114,
     "vacancies": 25,
     "registered": 1,
     "students": [
@@ -39960,7 +39887,7 @@
     "offering_id": "L",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 15,
     "vacancies": 25,
     "registered": 2,
     "students": [
@@ -39979,7 +39906,7 @@
     "offering_id": "M",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 19,
     "vacancies": 25,
     "registered": 1,
     "students": [
@@ -40013,7 +39940,7 @@
     "offering_id": "O",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 25,
     "registered": 1,
     "students": [
@@ -40063,7 +39990,7 @@
     "offering_id": "A",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 18,
     "vacancies": 15,
     "registered": 5,
     "students": [
@@ -40085,7 +40012,7 @@
     "offering_id": "B",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 15,
     "vacancies": 15,
     "registered": 1,
     "students": [
@@ -40103,7 +40030,7 @@
     "offering_id": "C",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 15,
     "registered": 0,
     "students": [],
@@ -40119,7 +40046,7 @@
     "offering_id": "D",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 15,
     "registered": 0,
     "students": [],
@@ -40135,7 +40062,7 @@
     "offering_id": "E",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 15,
     "registered": 0,
     "students": [],
@@ -40151,7 +40078,7 @@
     "offering_id": "F",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 15,
     "registered": 0,
     "students": [],
@@ -40167,7 +40094,7 @@
     "offering_id": "G",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 15,
     "registered": 0,
     "students": [],
@@ -40183,7 +40110,7 @@
     "offering_id": "H",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 15,
     "registered": 0,
     "students": [],
@@ -40199,7 +40126,7 @@
     "offering_id": "I",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 15,
     "registered": 0,
     "students": [],
@@ -40215,7 +40142,7 @@
     "offering_id": "J",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 15,
     "registered": 0,
     "students": [],
@@ -40231,7 +40158,7 @@
     "offering_id": "K",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 15,
     "registered": 0,
     "students": [],
@@ -40247,7 +40174,7 @@
     "offering_id": "L",
     "semester": "2",
     "year": "2016",
-    "teacher": 2,
+    "teacher": 72,
     "vacancies": 15,
     "registered": 0,
     "students": [],
@@ -40418,7 +40345,7 @@
     "year": "2016",
     "teacher": 6,
     "vacancies": 33,
-    "registered": 33,
+    "registered": 31,
     "students": [
       318,
       317,
@@ -40432,7 +40359,6 @@
       323,
       324,
       325,
-      326,
       327,
       328,
       329,
@@ -40447,14 +40373,16 @@
       337,
       316,
       338,
-      339,
       340,
       341,
       342,
       343,
       344
     ],
-    "giveups": [],
+    "giveups": [
+      326,
+      339
+    ],
     "answers": []
   }
 },
@@ -40518,12 +40446,11 @@
     "year": "2016",
     "teacher": 7,
     "vacancies": 33,
-    "registered": 33,
+    "registered": 31,
     "students": [
       383,
       380,
       381,
-      384,
       385,
       382,
       386,
@@ -40548,13 +40475,15 @@
       404,
       405,
       406,
-      407,
       408,
       409,
       399,
       410
     ],
-    "giveups": [],
+    "giveups": [
+      384,
+      407
+    ],
     "answers": []
   }
 },
@@ -40667,14 +40596,13 @@
     "year": "2016",
     "teacher": 8,
     "vacancies": 33,
-    "registered": 33,
+    "registered": 32,
     "students": [
       479,
       480,
       481,
       476,
       482,
-      483,
       484,
       485,
       486,
@@ -40703,7 +40631,9 @@
       507,
       508
     ],
-    "giveups": [],
+    "giveups": [
+      483
+    ],
     "answers": []
   }
 },
@@ -40914,7 +40844,7 @@
     "offering_id": "O",
     "semester": "2",
     "year": "2016",
-    "teacher": 10,
+    "teacher": 115,
     "vacancies": 33,
     "registered": 33,
     "students": [
@@ -40964,7 +40894,7 @@
     "offering_id": "P",
     "semester": "2",
     "year": "2016",
-    "teacher": 10,
+    "teacher": 115,
     "vacancies": 33,
     "registered": 33,
     "students": [
@@ -41116,7 +41046,7 @@
     "year": "2016",
     "teacher": 11,
     "vacancies": 33,
-    "registered": 32,
+    "registered": 30,
     "students": [
       777,
       778,
@@ -41134,7 +41064,6 @@
       788,
       775,
       789,
-      790,
       776,
       792,
       793,
@@ -41148,10 +41077,12 @@
       799,
       800,
       801,
-      802,
       803
     ],
-    "giveups": [],
+    "giveups": [
+      790,
+      802
+    ],
     "answers": []
   }
 },
@@ -41295,7 +41226,7 @@
     "year": "2016",
     "teacher": 12,
     "vacancies": 25,
-    "registered": 28,
+    "registered": 27,
     "students": [
       900,
       899,
@@ -41303,7 +41234,6 @@
       902,
       903,
       904,
-      905,
       906,
       907,
       908,
@@ -41326,7 +41256,9 @@
       924,
       926
     ],
-    "giveups": [],
+    "giveups": [
+      905
+    ],
     "answers": []
   }
 },
@@ -41409,7 +41341,7 @@
     "year": "2016",
     "teacher": 12,
     "vacancies": 25,
-    "registered": 13,
+    "registered": 12,
     "students": [
       964,
       965,
@@ -41419,13 +41351,14 @@
       969,
       963,
       970,
-      962,
       971,
       972,
       973,
       974
     ],
-    "giveups": [],
+    "giveups": [
+      962
+    ],
     "answers": []
   }
 },
@@ -41528,7 +41461,7 @@
     "year": "2016",
     "teacher": 14,
     "vacancies": 33,
-    "registered": 25,
+    "registered": 24,
     "students": [
       1039,
       1032,
@@ -41553,10 +41486,11 @@
       1050,
       1041,
       1042,
-      1045,
+      1045
+    ],
+    "giveups": [
       1037
     ],
-    "giveups": [],
     "answers": []
   }
 },
@@ -41692,7 +41626,7 @@
     "year": "2016",
     "teacher": 16,
     "vacancies": 50,
-    "registered": 72,
+    "registered": 62,
     "students": [
       1188,
       1193,
@@ -41728,24 +41662,15 @@
       1184,
       1164,
       1175,
-      150,
-      1176,
       135,
       1165,
-      238,
-      1189,
       1150,
-      1177,
       1166,
       165,
-      1145,
       1167,
       1156,
-      1153,
       170,
-      116,
       1172,
-      1190,
       1168,
       201,
       1154,
@@ -41763,11 +41688,21 @@
       1143,
       1170,
       1171,
-      1192,
       1140,
       1185
     ],
-    "giveups": [],
+    "giveups": [
+      150,
+      1176,
+      238,
+      1189,
+      1177,
+      1145,
+      1153,
+      116,
+      1190,
+      1192
+    ],
     "answers": []
   }
 },
@@ -41781,7 +41716,7 @@
     "year": "2016",
     "teacher": 17,
     "vacancies": 100,
-    "registered": 115,
+    "registered": 113,
     "students": [
       1188,
       1251,
@@ -41829,7 +41764,6 @@
       1271,
       1225,
       161,
-      1240,
       1204,
       1272,
       1208,
@@ -41871,10 +41805,8 @@
       545,
       1229,
       1249,
-      1234,
       1282,
       1283,
-      1034,
       1284,
       1233,
       212,
@@ -41899,7 +41831,11 @@
       1230,
       1222
     ],
-    "giveups": [],
+    "giveups": [
+      1240,
+      1234,
+      1034
+    ],
     "answers": []
   }
 },
@@ -42098,7 +42034,7 @@
     "year": "2016",
     "teacher": 19,
     "vacancies": 50,
-    "registered": 60,
+    "registered": 59,
     "students": [
       1400,
       223,
@@ -42150,7 +42086,6 @@
       1404,
       1395,
       1255,
-      1407,
       1396,
       1397,
       1250,
@@ -42161,7 +42096,9 @@
       1259,
       1399
     ],
-    "giveups": [],
+    "giveups": [
+      1407
+    ],
     "answers": []
   }
 },
@@ -42321,7 +42258,7 @@
     "year": "2016",
     "teacher": 21,
     "vacancies": 26,
-    "registered": 27,
+    "registered": 26,
     "students": [
       1400,
       235,
@@ -42329,7 +42266,6 @@
       1443,
       1414,
       1444,
-      1448,
       1445,
       1380,
       184,
@@ -42351,7 +42287,9 @@
       1399,
       1451
     ],
-    "giveups": [],
+    "giveups": [
+      1448
+    ],
     "answers": []
   }
 },
@@ -42412,11 +42350,10 @@
     "year": "2016",
     "teacher": 21,
     "vacancies": 25,
-    "registered": 28,
+    "registered": 27,
     "students": [
       1466,
       1470,
-      1473,
       177,
       171,
       1474,
@@ -42443,7 +42380,9 @@
       1478,
       1465
     ],
-    "giveups": [],
+    "giveups": [
+      1473
+    ],
     "answers": []
   }
 },
@@ -42457,7 +42396,7 @@
     "year": "2016",
     "teacher": 5,
     "vacancies": 60,
-    "registered": 61,
+    "registered": 59,
     "students": [
       1258,
       1490,
@@ -42467,7 +42406,6 @@
       1216,
       1151,
       1373,
-      1485,
       1196,
       182,
       169,
@@ -42478,7 +42416,6 @@
       1486,
       1384,
       1173,
-      203,
       1160,
       232,
       1488,
@@ -42499,7 +42436,6 @@
       116,
       1279,
       1172,
-      189,
       1248,
       201,
       1178,
@@ -42521,7 +42457,11 @@
       1478,
       1185
     ],
-    "giveups": [],
+    "giveups": [
+      1485,
+      203,
+      189
+    ],
     "answers": []
   }
 },
@@ -42614,9 +42554,8 @@
     "year": "2016",
     "teacher": 22,
     "vacancies": 25,
-    "registered": 25,
+    "registered": 24,
     "students": [
-      1434,
       1500,
       1497,
       1449,
@@ -42642,7 +42581,9 @@
       1368,
       1195
     ],
-    "giveups": [],
+    "giveups": [
+      1434
+    ],
     "answers": []
   }
 },
@@ -42699,7 +42640,7 @@
     "year": "2016",
     "teacher": 22,
     "vacancies": 25,
-    "registered": 24,
+    "registered": 20,
     "students": [
       223,
       218,
@@ -42707,18 +42648,14 @@
       1359,
       1220,
       1202,
-      1447,
-      242,
       1343,
       1488,
       1455,
       1439,
       1509,
-      1508,
       1391,
       225,
       1245,
-      1507,
       1393,
       1505,
       1506,
@@ -42726,7 +42663,12 @@
       1487,
       1399
     ],
-    "giveups": [],
+    "giveups": [
+      1447,
+      242,
+      1508,
+      1507
+    ],
     "answers": []
   }
 },
@@ -42740,7 +42682,7 @@
     "year": "2016",
     "teacher": 23,
     "vacancies": 25,
-    "registered": 39,
+    "registered": 38,
     "students": [
       1193,
       1521,
@@ -42759,7 +42701,6 @@
       123,
       1375,
       150,
-      1177,
       157,
       1518,
       117,
@@ -42781,7 +42722,9 @@
       1502,
       1423
     ],
-    "giveups": [],
+    "giveups": [
+      1177
+    ],
     "answers": []
   }
 },
@@ -42795,7 +42738,7 @@
     "year": "2016",
     "teacher": 23,
     "vacancies": 25,
-    "registered": 29,
+    "registered": 28,
     "students": [
       111,
       1535,
@@ -42818,7 +42761,6 @@
       1420,
       1534,
       116,
-      1536,
       1531,
       1532,
       1526,
@@ -42827,7 +42769,9 @@
       1140,
       1185
     ],
-    "giveups": [],
+    "giveups": [
+      1536
+    ],
     "answers": []
   }
 },
@@ -42841,7 +42785,7 @@
     "year": "2016",
     "teacher": 24,
     "vacancies": 75,
-    "registered": 89,
+    "registered": 87,
     "students": [
       1188,
       1251,
@@ -42866,12 +42810,10 @@
       181,
       1199,
       1238,
-      1200,
       1298,
       1383,
       1364,
       1269,
-      1005,
       1159,
       1163,
       227,
@@ -42882,7 +42824,6 @@
       1271,
       1540,
       978,
-      1240,
       1272,
       238,
       205,
@@ -42933,7 +42874,11 @@
       214,
       1192
     ],
-    "giveups": [],
+    "giveups": [
+      1200,
+      1005,
+      1240
+    ],
     "answers": []
   }
 },
@@ -42974,7 +42919,7 @@
     "year": "2016",
     "teacher": 26,
     "vacancies": 25,
-    "registered": 26,
+    "registered": 25,
     "students": [
       113,
       221,
@@ -42999,11 +42944,12 @@
       219,
       114,
       1555,
-      142,
       1556,
       1409
     ],
-    "giveups": [],
+    "giveups": [
+      142
+    ],
     "answers": []
   }
 },
@@ -43069,7 +43015,7 @@
     "year": "2016",
     "teacher": 27,
     "vacancies": 50,
-    "registered": 43,
+    "registered": 42,
     "students": [
       1411,
       1416,
@@ -43107,7 +43053,6 @@
       1568,
       1426,
       195,
-      164,
       1408,
       1573,
       1567,
@@ -43115,7 +43060,9 @@
       1201,
       1399
     ],
-    "giveups": [],
+    "giveups": [
+      164
+    ],
     "answers": []
   }
 },
@@ -43129,14 +43076,13 @@
     "year": "2016",
     "teacher": 28,
     "vacancies": 60,
-    "registered": 38,
+    "registered": 37,
     "students": [
       1443,
       1414,
       1432,
       217,
       1218,
-      1578,
       1427,
       171,
       1422,
@@ -43170,7 +43116,9 @@
       1576,
       1423
     ],
-    "giveups": [],
+    "giveups": [
+      1578
+    ],
     "answers": []
   }
 },
@@ -43260,7 +43208,7 @@
     "year": "2016",
     "teacher": 29,
     "vacancies": 50,
-    "registered": 70,
+    "registered": 69,
     "students": [
       1504,
       1582,
@@ -43287,7 +43235,6 @@
       1270,
       1581,
       1271,
-      1240,
       1272,
       115,
       1543,
@@ -43316,7 +43263,6 @@
       1433,
       1198,
       1281,
-      1255,
       1407,
       1282,
       1283,
@@ -43333,7 +43279,10 @@
       1287,
       214
     ],
-    "giveups": [],
+    "giveups": [
+      1240,
+      1255
+    ],
     "answers": []
   }
 },
@@ -43461,7 +43410,7 @@
     "year": "2016",
     "teacher": 31,
     "vacancies": 25,
-    "registered": 25,
+    "registered": 24,
     "students": [
       1586,
       1571,
@@ -43484,12 +43433,13 @@
       1587,
       195,
       1526,
-      164,
       1454,
       1201,
       1423
     ],
-    "giveups": [],
+    "giveups": [
+      164
+    ],
     "answers": []
   }
 },
@@ -43602,7 +43552,7 @@
     "year": "2016",
     "teacher": 5,
     "vacancies": 19,
-    "registered": 18,
+    "registered": 17,
     "students": [
       1503,
       113,
@@ -43616,14 +43566,15 @@
       1515,
       1536,
       1154,
-      1516,
       1562,
       1522,
       1576,
       1502,
       1556
     ],
-    "giveups": [],
+    "giveups": [
+      1516
+    ],
     "answers": []
   }
 },
@@ -43704,18 +43655,19 @@
     "year": "2016",
     "teacher": 6,
     "vacancies": 10,
-    "registered": 8,
+    "registered": 7,
     "students": [
       1542,
       1456,
       241,
       231,
-      1425,
       210,
       214,
       1478
     ],
-    "giveups": [],
+    "giveups": [
+      1425
+    ],
     "answers": []
   }
 },
@@ -43729,7 +43681,7 @@
     "year": "2016",
     "teacher": 7,
     "vacancies": 36,
-    "registered": 40,
+    "registered": 39,
     "students": [
       1188,
       132,
@@ -43765,14 +43717,15 @@
       195,
       114,
       1285,
-      164,
       1573,
       142,
       1286,
       138,
       1556
     ],
-    "giveups": [],
+    "giveups": [
+      164
+    ],
     "answers": []
   }
 },
@@ -43786,16 +43739,17 @@
     "year": "2016",
     "teacher": 33,
     "vacancies": 10,
-    "registered": 6,
+    "registered": 5,
     "students": [
       1542,
-      1218,
       1456,
       126,
       192,
       1528
     ],
-    "giveups": [],
+    "giveups": [
+      1218
+    ],
     "answers": []
   }
 },
@@ -43809,7 +43763,7 @@
     "year": "2016",
     "teacher": 34,
     "vacancies": 50,
-    "registered": 54,
+    "registered": 53,
     "students": [
       1416,
       1401,
@@ -43822,7 +43776,6 @@
       221,
       1427,
       1148,
-      1492,
       171,
       1474,
       1513,
@@ -43866,7 +43819,9 @@
       1556,
       1222
     ],
-    "giveups": [],
+    "giveups": [
+      1492
+    ],
     "answers": []
   }
 },
@@ -43880,12 +43835,13 @@
     "year": "2016",
     "teacher": 13,
     "vacancies": 10,
-    "registered": 2,
+    "registered": 1,
     "students": [
-      121,
+      121
+    ],
+    "giveups": [
       1538
     ],
-    "giveups": [],
     "answers": []
   }
 },
@@ -43927,16 +43883,17 @@
     "year": "2016",
     "teacher": 4,
     "vacancies": 10,
-    "registered": 6,
+    "registered": 4,
     "students": [
-      1597,
       1542,
-      188,
       210,
       133,
       1585
     ],
-    "giveups": [],
+    "giveups": [
+      1597,
+      188
+    ],
     "answers": []
   }
 },
@@ -43998,7 +43955,7 @@
     "year": "2016",
     "teacher": 3,
     "vacancies": 40,
-    "registered": 44,
+    "registered": 42,
     "students": [
       1503,
       1183,
@@ -44017,7 +43974,6 @@
       1166,
       139,
       1534,
-      1495,
       1167,
       1460,
       1475,
@@ -44035,7 +43991,6 @@
       1142,
       195,
       1413,
-      164,
       1561,
       1170,
       1469,
@@ -44045,7 +44000,10 @@
       1560,
       166
     ],
-    "giveups": [],
+    "giveups": [
+      1495,
+      164
+    ],
     "answers": []
   }
 },
@@ -50822,6 +50780,62 @@
   }
 },
 {
+  "model": "dacParser.teacher",
+  "pk": 109,
+  "fields": {
+    "name": "Helio Pedrini",
+    "email": ""
+  }
+},
+{
+  "model": "dacParser.teacher",
+  "pk": 110,
+  "fields": {
+    "name": "Rafael Crivellari Saliba Schouery",
+    "email": ""
+  }
+},
+{
+  "model": "dacParser.teacher",
+  "pk": 111,
+  "fields": {
+    "name": "Arthur Joao Catto",
+    "email": ""
+  }
+},
+{
+  "model": "dacParser.teacher",
+  "pk": 112,
+  "fields": {
+    "name": "Juliana Freitag Borin",
+    "email": ""
+  }
+},
+{
+  "model": "dacParser.teacher",
+  "pk": 113,
+  "fields": {
+    "name": "Anderson De Rezende Rocha",
+    "email": ""
+  }
+},
+{
+  "model": "dacParser.teacher",
+  "pk": 114,
+  "fields": {
+    "name": "Neucimar Jeronimo Leite",
+    "email": ""
+  }
+},
+{
+  "model": "dacParser.teacher",
+  "pk": 115,
+  "fields": {
+    "name": "Alexandre Mello Ferreira",
+    "email": ""
+  }
+},
+{
   "model": "dacParser.institute",
   "pk": 1,
   "fields": {
@@ -51052,6 +51066,7 @@
     "typ": "N",
     "min_v": 0,
     "max_v": 10,
+    "mandatory": true,
     "choices": []
   }
 },
@@ -51065,6 +51080,7 @@
     "typ": "N",
     "min_v": 0,
     "max_v": 10,
+    "mandatory": true,
     "choices": []
   }
 },
@@ -51078,6 +51094,7 @@
     "typ": "N",
     "min_v": 0,
     "max_v": 10,
+    "mandatory": true,
     "choices": []
   }
 },
@@ -51091,6 +51108,7 @@
     "typ": "O",
     "min_v": 0,
     "max_v": 0,
+    "mandatory": true,
     "choices": [
       1,
       2,
@@ -51110,6 +51128,7 @@
     "typ": "T",
     "min_v": 0,
     "max_v": 0,
+    "mandatory": true,
     "choices": []
   }
 },
