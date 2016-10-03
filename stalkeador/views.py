@@ -2,7 +2,6 @@ from django.shortcuts import render
 from django.db.models import Q
 from dacParser.models import Student, Offering, Subject, Teacher
 
-
 # This is the index page (homepage).
 # It returns the empty homepage if theres no search_field in the GET request,
 # or returns the search query (NEEDS IMPLEMENTATION)
@@ -67,9 +66,17 @@ def deal_teacher(request, teacherID):
     # Turns the web request into a readable name
     teacher_name = str(' '.join(teacherID.split('-')))
     print(teacher_name)
+   
+
+    teacher_obj = Teacher.objects.get(name=teacher_name)
+    offerings = Offering.objects.all().filter(teacher=teacher_obj)
+    print(offerings)
+
+    for ofering in offerings:
+        print(ofering)
+
     try:
         teacher = Teacher.objects.get(name=teacher_name)
-
         output = {
                 'teacher': teacher
         }
