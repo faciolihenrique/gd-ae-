@@ -67,7 +67,7 @@ def deal_teacher(request, teacherID):
     teacher_name = str(' '.join(teacherID.split('-')))
     print(teacher_name)
    
-
+    #search for object to compare
     teacher_obj = Teacher.objects.get(name=teacher_name)
     offerings = Offering.objects.all().filter(teacher=teacher_obj)
     print(offerings)
