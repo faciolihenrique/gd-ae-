@@ -67,18 +67,16 @@ def deal_teacher(request, teacherID):
     teacher_name = str(' '.join(teacherID.split('-')))
     print(teacher_name)
    
-    #search for object to compare
+    #search for offerings from that teacher
     teacher_obj = Teacher.objects.get(name=teacher_name)
-    offerings = Offering.objects.all().filter(teacher=teacher_obj)
-    print(offerings)
-
-    for ofering in offerings:
-        print(ofering)
+    teacher_offerings = Offering.objects.all().filter(teacher=teacher_obj)
+    print(teacher_offerings)
 
     try:
         teacher = Teacher.objects.get(name=teacher_name)
         output = {
-                'teacher': teacher
+                'teacher': teacher,
+                'teacher_offerings': teacher_offerings
         }
 
         return render(request, 'stalkeador/teacher.html', output)
