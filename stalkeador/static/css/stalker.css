@@ -2,6 +2,10 @@ html,body{
     height: 100%
 }
 
+* {
+  border-radius: 0 !important;
+}
+
 .navbar-default {
   background-color: #fbdeaf;
   border-color: #f9e9c9;
@@ -77,18 +81,8 @@ html,body{
   background-color: #f4ffff;
 }
 
-#holder {
-  min-height: 100%;
-  position:relative;
-}
-ul.footer{
-  margin-top:10px;
-  text-align:center;
-}
-
-ul.footer li{
-  color:#333;
-  display:inline-block;
+.thumbnail .thumbnail-yellow {
+  background: #ffffe6;
 }
 
 

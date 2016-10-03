@@ -68,17 +68,37 @@
 </div>
 
 <div>
-    <h3>Alunos</h3>
-    {% for student in offering.students.all %}
-        <div class="col-md-6">
-            <a href="{{ student.url }}">
-                <div class="thumbnail">
-                    <h4>
-                        {{ student }}
-                    </h4>
-                </div>
-            </a>
-        </div>
-    {% endfor %}
+    <hr>
+    <div class="row">
+        <h3>Alunos</h3>
+        {% for student in offering.students.all %}
+            <div class="col-md-6">
+                <a href="{{ student.url }}">
+                    <div class="thumbnail" style="background: #e6fff1">
+                        <h4>
+                            {{ student }}
+                        </h4>
+                    </div>
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+    <hr>
+    <div class="row">
+        <h3>Alunos que Trancaram</h3>
+        {% for student in offering.giveups.all %}
+            <div class="col-md-6">
+                <a href="{{ student.url }}">
+                    <div class="thumbnail" style="background: #ffffe6">
+                        <h4>
+                            {{ student }}
+                        </h4>
+                    </div>
+                </a>
+            </div>
+        {% empty %}
+            <h4> Nenhum aluno trancou</h4>
+        {% endfor %}
+    </div>
 </div>
 {% endblock %}
